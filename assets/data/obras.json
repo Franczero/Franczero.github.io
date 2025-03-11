@@ -1,0 +1,13 @@
+{
+    "obras": [
+        {
+            "id": 1,
+            "titulo": "Obra de Exemplo",
+            "imagem": "assets/obras/obra1.jpg",
+            "ano": 2023,
+            "tecnica": "Óleo sobre tela",
+            "tema": "Abstrato",
+            "exposicao": "Galeria XYZ"
+        }
+    ]
+}
